@@ -1,19 +1,10 @@
 """
 Describe your program.
-First Last - Month Year
+Yoav Bierkatz, Jude Averitt | September 2026
 """
 
 def main() -> None:
-  pass # remove me
-
-  # input
-
-
-  # processing
-  
-  
-  # output
-
+pass 
 
 if __name__ == "__main__":
   main()
